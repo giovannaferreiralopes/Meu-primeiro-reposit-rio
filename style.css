@@ -8,14 +8,14 @@
 /* estiliza o corpo geral da página */
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
-    background-color: #ffffff; /* define a cor de fundo da página */
-    color: #141313; /* define a cor padrão dos textos */
+    background-color: #f0f4f8; /* define a cor de fundo da página */
+    color: #333333; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
 header {
-    background-color: #ffffff; /* define a cor de fundo do cabeçalho */
-    color:rgb(0, 0, 0); /* define a cor do texto do cabeçalho */
+    background-color: #113c6a; /* define a cor de fundo do cabeçalho */
+    color: white; /* define a cor do texto do cabeçalho */
     text-align: center; /* centraliza o texto dentro do cabeçalho */
     padding: 30px; /* adiciona espaçamento interno em todos os lados */
 }
@@ -111,24 +111,3 @@ footer {
     padding: 20px; /* adiciona espaçamento interno */
     margin-top: 30px; /* adiciona espaço acima do rodapé */
 }
-style.css
-Exibindo style.css…
-AT05_Finalizar o Primeiro Projeto
-MARCELO YUKIO YAMAMOTO
-•
-09:06
-100 pontos
-Os códigos base estão disponíveis abaixo.
-
-Atualize a sua página com seus dados e poste aqui o resultado.
-(Link do GitHub, com as alterações.)
-index.html
-HTML
-
-script.js
-JavaScript
-
-style.css
-CSS
-
-Comentários da turma
