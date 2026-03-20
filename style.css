@@ -8,8 +8,8 @@
 /* estiliza o corpo geral da página */
 body {
     font-family: Arial, sans-serif; /* define a fonte principal do site */
-    background-color: #db21c5; /* define a cor de fundo da página */
-    color: #ffffff; /* define a cor padrão dos textos */
+    background-color: #ffffff; /* define a cor de fundo da página */
+    color: #141313; /* define a cor padrão dos textos */
 }
 
 /* estiliza o cabeçalho */
